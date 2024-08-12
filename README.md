@@ -1,16 +1,10 @@
-# chess_game
+# Satranj: A Simple and Easy-to-Play Ancient Chess Game in Flutter
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+Satranj, a predecessor of modern chess, has its origins in ancient Persia and India. While the game shares similarities with modern chess, it has distinct rules and a unique charm. This repository provides a simple and easy-to-play version of Satranj, built using Flutter.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Minimalistic UI**: A clean and simple user interface that focuses on the gameplay.
+- **Smooth Animations**: Experience fluid piece movement and board interactions.
